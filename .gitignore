@@ -27,3 +27,4 @@ nbactions.xml
 
 # VS Code
 .factorypath
+.DS_Store
